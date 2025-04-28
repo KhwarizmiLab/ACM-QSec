@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: center; margin: 2em 0;">
-  <img src="/assets/images/logo.png" alt="ACM Logo" style="max-width: 300px; height: auto;" />
+  <img src="/images/logo.png" alt="ACM Logo" style="max-width: 300px; height: auto;" />
 </div>
 <div style="text-align: center; margin-bottom: 1em;">
   Co-located with <i>ACM CCS 2025</i><br>
