@@ -33,7 +33,7 @@ We welcome submissions on all aspects of quantum security and privacy, including
 ### Privacy and Ethical Considerations
 - Ethical implications of quantum computing for user privacy  
 - Risk analysis and mitigation strategies for quantum-enhanced systems  
-- Legal and regulatory challenges in deploying quantum security technologies :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}
+- Legal and regulatory challenges in deploying quantum security technologies
 
 {% include important-dates.html %}
 
