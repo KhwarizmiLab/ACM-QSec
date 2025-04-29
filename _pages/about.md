@@ -10,7 +10,7 @@ redirect_from:
 <div style="text-align: center; margin: 2em 0;">
   <img src="/images/logo.png" alt="ACM Logo" style="max-width: 300px; height: auto;" />
 </div>
-<div style="text-align: center; margin-bottom: 1em;">
+<div style="text-align: center; margin-bottom: 2em;">
   Co-located with <i>ACM CCS 2025</i><br>
   October 13–17, 2025<br>
   Taipei, Taiwan
