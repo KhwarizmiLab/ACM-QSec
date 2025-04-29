@@ -9,6 +9,13 @@ redirect_from:
   - /pc.html
 ---
 
-# TBD
+## Workshop Chairs
+
+- Jakub Szefer, *Northwestern University*
+- Muhammad Taqi Raza, *UMass Amherst*
+
+## TPC
+TBD
+
 
 {% include important-dates.html %}
