@@ -45,23 +45,74 @@ The Quantum Security and Privacy (QSec) Workshop aims to establish a focused ven
 
 ## Program Committee
 
-### Workshop Chairs
+<!-- Workshop Chairs -->
+<h3>Workshop Chairs</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Affiliation</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jakub Szefer</td>
+      <td>Northwestern University</td>
+      <td><a href="mailto:jakub.szefer@northwestern.edu">jakub.szefer@northwestern.edu</a></td>
+    </tr>
+    <tr>
+      <td>Muhammad Taqi Raza</td>
+      <td>UMass Amherst</td>
+      <td><a href="mailto:taqi@umass.edu">taqi@umass.edu</a></td>
+    </tr>
+  </tbody>
+</table>
 
-| Name                   | Affiliation              | Email                                                |
-| ---------------------- | ------------------------ | ---------------------------------------------------- |
-| Jakub Szefer           | Northwestern University  | [jakub.szefer@northwestern.edu](mailto:jakub.szefer@northwestern.edu) |
-| Muhammad Taqi Raza     | UMass Amherst            | [taqi@umass.edu](mailto:taqi@umass.edu)              |
+<!-- Web Chairs -->
+<h3>Web Chairs</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Affiliation</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Raja Hasnain Anwar</td>
+      <td>UMass Amherst</td>
+      <td><a href="mailto:ranwar@umass.edu">ranwar@umass.edu</a></td>
+    </tr>
+  </tbody>
+</table>
 
-#### Web Chairs
-
-| Name                   | Affiliation              | Email                                                |
-| ---------------------- | ------------------------ | ---------------------------------------------------- |
-| Raja Hasnain Anwar     | UMass Amherst            | [ranwar@umass.edu](mailto:ranwar@umass.edu)          |
-
-#### Publicity Chairs
-
-| Name                   | Affiliation              | Email                                                |
-| ---------------------- | ------------------------ | ---------------------------------------------------- |
-| Yizhuo Tan           | Yale University  | [yizhuo.tan@yale.edu](mailto:yizhuo.tan@yale.edu) |
-| Theodoros Trochatos  | Yale University  | [theodoros.trochatos@yale.edu](mailto:theodoros.trochatos@yale.edu) |
-| Ali Hamza Malik     | UMass Amherst            | [ahmalik@umass.edu](mailto:ahmalik@umass.edu)              |
+<!-- Publicity Chairs -->
+<h3>Publicity Chairs</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Affiliation</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Yizhuo Tan</td>
+      <td>Yale University</td>
+      <td><a href="mailto:yizhuo.tan@yale.edu">yizhuo.tan@yale.edu</a></td>
+    </tr>
+    <tr>
+      <td>Theodoros Trochatos</td>
+      <td>Yale University</td>
+      <td><a href="mailto:theodoros.trochatos@yale.edu">theodoros.trochatos@yale.edu</a></td>
+    </tr>
+    <tr>
+      <td>Ali Hamza Malik</td>
+      <td>UMass Amherst</td>
+      <td><a href="mailto:ahmalik@umass.edu">ahmalik@umass.edu</a></td>
+    </tr>
+  </tbody>
+</table>
