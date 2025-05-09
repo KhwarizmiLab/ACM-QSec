@@ -12,7 +12,7 @@ redirect_from:
 </div>
 <div style="text-align: center; margin-bottom: 2em;">
   Co-located with <i>ACM CCS 2025</i><br>
-  October 13–17, 2025<br>
+  October 17, 2025<br>
   Taipei, Taiwan
 </div>
 
@@ -46,8 +46,19 @@ The Quantum Security and Privacy (QSec) Workshop aims to establish a focused ven
 ## Program Committee
 
 ### Workshop Chairs
-
 | Name                   | Affiliation              | Email                                                |
 | ---------------------- | ------------------------ | ---------------------------------------------------- |
 | Jakub Szefer           | Northwestern University  | [jakub.szefer@northwestern.edu](mailto:jakub.szefer@northwestern.edu) |
 | Muhammad Taqi Raza     | UMass Amherst            | [taqi@umass.edu](mailto:taqi@umass.edu)              |
+
+#### Web Chairs
+| Name                   | Affiliation              | Email                                                |
+| ---------------------- | ------------------------ | ---------------------------------------------------- |
+| Raja Hasnain Anwar     | UMass Amherst            | [ranwar@umass.edu](mailto:ranwar@umass.edu)          |
+
+#### Publicity Chairs
+| Name                   | Affiliation              | Email                                                |
+| ---------------------- | ------------------------ | ---------------------------------------------------- |
+| Yizhuo Tan           | Yale University  | [yizhuo.tan@yale.edu](mailto:yizhuo.tan@yale.edu) |
+| Theodoros Trochatos  | Yale University  | [theodoros.trochatos@yale.edu](mailto:theodoros.trochatos@yale.edu) |
+| Ali Hamza Malik     | UMass Amherst            | [ahmalik@umass.edu](mailto:ahmalik@umass.edu)              |

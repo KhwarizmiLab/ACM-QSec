@@ -26,4 +26,12 @@ redirect_from:
 - Sanjay Deshpande, *Yale University*
 - Saidur Rahman, *University of Texas at El Paso*
 
+## Web Chairs
+- Raja Hasnain Anwar,  *UMass Amherst*
+
+## Publicity Chairs
+- Yizhuo Tan, *Yale University*
+- Theodoros Trochatos, *Yale University*
+- Ali Hamza Malik, *UMass Amherst*
+
 {% include important-dates.html %}
