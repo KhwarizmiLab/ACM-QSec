@@ -77,7 +77,7 @@ All SIGSAC sponsored conferences and workshops are required to follow [ACM polic
 
 <div style="text-align: center; margin: 2em 0; font-size: 1.5rem">
   <b>Submit Your Work:</b>
-  <a hrefhttps://qsec25.hotcrp.com/" target="_blank">https://qsec25.hotcrp.com/</a>
+  <a href="https://qsec25.hotcrp.com/" target="_blank">https://qsec25.hotcrp.com/</a>
 </div>
 
 </div>
