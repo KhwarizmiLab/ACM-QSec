@@ -80,8 +80,6 @@ All SIGSAC sponsored conferences and workshops are required to follow [ACM polic
   <a href="https://qsec25.hotcrp.com/" target="_blank">https://qsec25.hotcrp.com/</a>
 </div>
 
-</div>
-
 Please Note: The official publication date is the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.
 
 ## Diversity and Inclusion
