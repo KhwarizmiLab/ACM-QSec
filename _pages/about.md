@@ -43,10 +43,10 @@ The Quantum Security and Privacy (QSec) Workshop aims to establish a focused ven
 
 {% include important-dates.html %}
 
-<div align="center" style="font-size: larger;">
-
-**For submission details:** [See Call for Papers](/call-for-papers/)
-
+<div style="text-align: center; margin: 2em 0; font-size: 1.5rem">
+  <b>For submission details:</b>
+  <a href="/call-for-papers/">See Call for Papers
+  </a>
 </div>
 
 

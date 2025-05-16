@@ -72,12 +72,13 @@ Program-committee members who have a genuine conflict of interest with a paper, 
 
 ## Policy for Peer-Review Integrity
 
-All SIGSAC sponsored conferences and workshops are required to follow ACM policies against harassment activities (https://www.acm.org/about-acm/policy-against-harassment) and ACM Code of Ethics and Professional Conduct (https://www.acm.org/code-of-ethics). Also all authors, PC members and non-PC reviewers are required to follow ACM Publications Policies (https://www.acm.org/publications/policies/toc). Particularly, we require all reviewers to uphold the integrity of the peer review process and avoid conflict of interest of any form (e.g., reviewer collusion ring). Those who violate these policies will be penalized according to ACM policies (https://www.acm.org/publications/policies/penalties-for-publication-violations). If you would like to report a violation, please contact program chairs of your conferences/workshops or SIGSAC officers. We are committed to protecting the confidentiality of your communication.
+All SIGSAC sponsored conferences and workshops are required to follow [ACM policies against harassment activities](https://www.acm.org/about-acm/policy-against-harassment) and [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics). Also all authors, PC members and non-PC reviewers are required to follow [ACM Publications Policies](https://www.acm.org/publications/policies/toc). Particularly, we require all reviewers to uphold the integrity of the peer review process and avoid conflict of interest of any form (e.g., reviewer collusion ring). Those who violate these policies will be penalized according to [ACM policies](https://www.acm.org/publications/policies/penalties-for-publication-violations). If you would like to report a violation, please contact program chairs of your conferences/workshops or SIGSAC officers. We are committed to protecting the confidentiality of your communication.
 
 
-<div align="center" style="font-size: larger;">
-
-**Submit Your Work** [https://qsec25.hotcrp.com/](https://qsec25.hotcrp.com/){:target="_blank" rel="noopener noreferrer"}
+<div style="text-align: center; margin: 2em 0; font-size: 1.5rem">
+  <b>Submit Your Work:</b>
+  <a hrefhttps://qsec25.hotcrp.com/" target="_blank">https://qsec25.hotcrp.com/</a>
+</div>
 
 </div>
 
