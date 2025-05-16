@@ -43,6 +43,14 @@ The Quantum Security and Privacy (QSec) Workshop aims to establish a focused ven
 
 {% include important-dates.html %}
 
+<div align="center" style="font-size: larger;">
+
+**For submission details:** [See Call for Papers](/call-for-papers/)
+
+</div>
+
+
+
 ## Program Committee
 
 <!-- Workshop Chairs -->
