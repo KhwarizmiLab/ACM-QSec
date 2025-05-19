@@ -66,7 +66,6 @@ Submissions must be a PDF file in double-column [ACM format](https://www.acm.org
 
 The conference requires cooperation from both authors and program-committee members to ensure a fair review process. For this purpose, authors must report all program-committee members who, in their opinion, have a conflict of interest and therefore may not be able to provide an unbiased review. Mandatory declared conflicts of interest include current or former doctoral advisor/advisee, members of the same institution, close family members, and recent co-authors (within the past 2 years). For any other declared conflict, authors are required to explain the nature of the conflict at the time of paper submission, which will be reviewed by the Program Chairs. The chairs reserve the right to request further explanation and can remove non-mandatory conflicts at their discretion.
 
-Program-committee members who have a genuine conflict of interest with a paper, including the Program Chairs, will be excluded from evaluation and discussion of that paper. When a Program Chair is conflicted, the other Co-Chair will be responsible for managing that paper. When both Program Chairs are in conflict, a committee member will be appointed to handle the paper. Program Chairs are not allowed to be authors or co-authors of any submissions.
 
 ## Policy for Peer-Review Integrity
 
