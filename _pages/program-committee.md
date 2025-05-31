@@ -29,6 +29,7 @@ redirect_from:
 - Nitish Panigrahy, *Binghamton University*
 - Patrick Schaumont, *Worcester Polytechnic Institute*
 - Prabhanjan Ananth, *University of California, Santa Barbara*
+- Raja Hasnain Anwar,  *University of Massachusets Amherst*
 - Ramin Ayazandeh, *University of Colorado*
 - Reza Azarderakhsh, *Florida Atlantic University*
 - Romina Yalovetzky, *JP Morgan*
@@ -37,19 +38,15 @@ redirect_from:
 - Salvatore Stolfo, *Columbia University*
 - Sanjay Deshpande, *Yale University*
 - Satvik Maurya, *University of Wisconsin*
-- Shahrooz Pouryousef, *University of Massachusets, Amherst*
+- Shahrooz Pouryousef, *University of Massachusets Amherst*
 - Swaroop Ghosh, *Pennsylvania State University*
 - Teodoros Trochatos, *Yale University*
 - Thapliyal Himanshu, *University of Tennessee*
 - Weiwen Jiang, *George Mason University*
 - Yingjie Lao, *Tufts University*
 
-
-
-## Web Chairs
-- Raja Hasnain Anwar,  *UMass Amherst*
-
 ## Publicity Chairs
+- Raja Hasnain Anwar,  *University of Massachusets Amherst*
 - Yizhuo Tan, *Yale University*
 - Theodoros Trochatos, *Yale University*
 - Ali Hamza Malik, *UMass Amherst*

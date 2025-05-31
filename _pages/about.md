@@ -76,8 +76,8 @@ The Quantum Security and Privacy (QSec) Workshop aims to establish a focused ven
   </tbody>
 </table>
 
-<!-- Web Chairs -->
-<h3>Web Chairs</h3>
+<!-- Publicity Chairs -->
+<h3>Publicity Chairs</h3>
 <table>
   <thead>
     <tr>
@@ -92,20 +92,6 @@ The Quantum Security and Privacy (QSec) Workshop aims to establish a focused ven
       <td>UMass Amherst</td>
       <td><a href="mailto:ranwar@umass.edu">ranwar@umass.edu</a></td>
     </tr>
-  </tbody>
-</table>
-
-<!-- Publicity Chairs -->
-<h3>Publicity Chairs</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Affiliation</th>
-      <th>Email</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>Yizhuo Tan</td>
       <td>Yale University</td>
