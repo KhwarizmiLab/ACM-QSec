@@ -20,20 +20,30 @@ redirect_from:
 - Chuanqi Xu, *Yale University*
 - Dan Rubenstein, *Columbia University*
 - Daniel Dinu, *Intel*
+- Das Poulami, *University of Texas, Austin*
+- Gang Qu, *University of Marlyand*
 - Jean-Pierre Seifert, *Technical University Berlin*
+- Jiafeng Xie, *Villanova University*
 - Jonathan Ruane, *Massachusetts Institute of Technology*
 - Nimisha Limaye, *Synopsys*
-- Nitish Kumar, *Binghamton University*
-- Poulami Das, *University of Texas, Austin*
+- Nitish Panigrahy, *Binghamton University*
+- Patrick Schaumont, *Worcester Polytechnic Institute*
 - Prabhanjan Ananth, *University of California, Santa Barbara*
+- Ramin Ayazandeh, *University of Colorado*
+- Reza Azarderakhsh, *Florida Atlantic University*
+- Romina Yalovetzky, *JP Morgan*
 - Rouzbeh Behnia, *University of South Florida*
 - Saidur Rahman, *University of Texas at El Paso*
+- Salvatore Stolfo, *Columbia University*
 - Sanjay Deshpande, *Yale University*
 - Satvik Maurya, *University of Wisconsin*
-- Shahrooz Pouryousef, *UMass Amherst*
-- Salvatore Stolfo, *Columbia University*
+- Shahrooz Pouryousef, *University of Massachusets, Amherst*
 - Swaroop Ghosh, *Pennsylvania State University*
+- Teodoros Trochatos, *Yale University*
+- Thapliyal Himanshu, *University of Tennessee*
 - Weiwen Jiang, *George Mason University*
+- Yingjie Lao, *Tufts University*
+
 
 
 ## Web Chairs
