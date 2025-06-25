@@ -12,7 +12,7 @@ redirect_from:
 ## Workshop Chairs
 
 - Jakub Szefer, *Northwestern University*
-- Muhammad Taqi Raza, *UMass Amherst*
+- Muhammad Taqi Raza, *University of Massachusets Amherst*
 
 ## Technical Program Committee
 
@@ -49,6 +49,6 @@ redirect_from:
 - Raja Hasnain Anwar,  *University of Massachusets Amherst*
 - Yizhuo Tan, *Yale University*
 - Theodoros Trochatos, *Yale University*
-- Ali Hamza Malik, *UMass Amherst*
+- Ali Hamza Malik, *University of Massachusets Amherst*
 
 {% include important-dates.html %}

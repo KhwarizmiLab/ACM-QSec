@@ -70,7 +70,7 @@ The Quantum Security and Privacy (QSec) Workshop aims to establish a focused ven
     </tr>
     <tr>
       <td>Muhammad Taqi Raza</td>
-      <td>UMass Amherst</td>
+      <td>University of Massachusets Amherst</td>
       <td><a href="mailto:taqi@umass.edu">taqi@umass.edu</a></td>
     </tr>
   </tbody>
@@ -89,7 +89,7 @@ The Quantum Security and Privacy (QSec) Workshop aims to establish a focused ven
   <tbody>
     <tr>
       <td>Raja Hasnain Anwar</td>
-      <td>UMass Amherst</td>
+      <td>University of Massachusets Amherst</td>
       <td><a href="mailto:ranwar@umass.edu">ranwar@umass.edu</a></td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@ The Quantum Security and Privacy (QSec) Workshop aims to establish a focused ven
     </tr>
     <tr>
       <td>Ali Hamza Malik</td>
-      <td>UMass Amherst</td>
+      <td>University of Massachusets Amherst</td>
       <td><a href="mailto:ahmalik@umass.edu">ahmalik@umass.edu</a></td>
     </tr>
   </tbody>
