@@ -204,10 +204,14 @@ redirect_from:
 <script>
 function toggleAbstract(id) {
     var abstract = document.getElementById(id);
+    var titleElement = event.target;
+    
     if (abstract.style.display === 'none' || abstract.style.display === '') {
         abstract.style.display = 'block';
+        titleElement.classList.add('expanded');
     } else {
         abstract.style.display = 'none';
+        titleElement.classList.remove('expanded');
     }
 }
 
