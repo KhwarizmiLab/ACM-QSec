@@ -14,13 +14,27 @@ redirect_from:
         <h1 class="schedule-title">QSec Workshop Schedule</h1>
     </div>
 
-    <div class="time-block">
+    <div class="time-block invited-talk">
         <div class="time-header">
             <div class="time-slot">9:00 AM - 10:00 AM</div>
-            <div class="session-title">Introduction and Keynote</div>
+            <div class="session-title">Keynote</div>
         </div>
         <div class="session-content">
-            <p>Opening remarks and keynote presentation to kick off the inaugural Quantum Security and Privacy Workshop.</p>
+            <div class="paper-item">
+                <a href="#" class="paper-title" onclick="toggleAbstract('keynote-abstract'); return false;">
+                    "From Shor to Standards --- The Evolution of PQC and the Road Ahead for Quantum-Era Threats"
+                </a>
+                <div class="paper-authors">
+                    <span class="speaker-name">Ruben Niederhagen</span> (Academia Sinica &amp; University of Southern Denmark)
+                    <button class="bio-toggle" onclick="toggleBio('keynote-bio'); return false;">View Bio</button>
+                </div>
+                <div id="keynote-abstract" class="paper-abstract" style="display:none;">
+                    This talk traces the journey from the early academic roots of post-quantum cryptographic schemes, through the crucible of the NIST competition, to the 2024 standards that now guide worldwide PQC migration. It examines the dual challenge of defending against both quantum and classical adversaries, highlights lessons learned from the design of long-horizon cryptographic primitives, and explores how today’s standardization choices will shape decades of secure communication. Looking ahead, the talk outlines the key research, engineering, and policy challenges that must be addressed to ensure a safe, efficient, and enduring transition to quantum-resistant security.
+                </div>
+                <div id="keynote-bio" class="speaker-bio" style="display:none;">
+                    <strong>Speaker Bio:</strong> Ruben Niederhagen is Associate Research Fellow at Academia Sinica in Taiwan and Associate Professor at the University of Southern Denmark in Denmark. He obtained his PhD at Eindhoven University of Technology in the Netherlands in 2012. His research fields are Applied and Embedded Cryptography as well as Cryptanalytic Implementations. He is a co-submitter to the NIST Post-Quantum Cryptography Standardization process of two algorithms: the hash-based signature scheme SPHINCS+, which was standardized by NIST as SLH-DSA, and the code-based key-encapsulation mechanism Classic McEliece, which made it to the last round.
+                </div>
+            </div>
         </div>
     </div>
 
