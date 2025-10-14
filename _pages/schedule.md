@@ -12,6 +12,7 @@ redirect_from:
     <div class="schedule-header">
         <div class="schedule-date">October 17, 2025</div>
         <h1 class="schedule-title">QSec Workshop Schedule</h1>
+        <div class="schedule-location">Room 201C at the Taipei International Convention Center (TICC)</div>
     </div>
 
     <div class="time-block invited-talk">
@@ -78,17 +79,17 @@ redirect_from:
             <div class="session-title">Paper Session I</div>
         </div>
         <div class="session-content">
+
             <div class="paper-item">
-                <a href="#" class="paper-title" onclick="toggleAbstract('abstract2'); return false;">
-                    "Securing Quantum Computer Reset with One-Time Pads"
+                <a href="#" class="paper-title" onclick="toggleAbstract('abstract4'); return false;">
+                    "I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers"
                 </a>
                 <div class="paper-authors">
-                    <span class="speaker-name">Chuanqi Xu</span> (Yale University); 
-                    <span class="speaker-name">Jamie Sikora</span> (Virginia Polytechnic Institute and State University); 
+                    <span class="speaker-name">Yizhuo Tan</span> (Yale University); 
                     <span class="speaker-name">Jakub Szefer</span> (Northwestern University)
                 </div>
-                <div id="abstract2" class="paper-abstract">
-                    The rapid expansion of cloud-based access to quantum computers has significantly democratized their usage, enabling a more diverse range of users to explore and utilize quantum computing technologies. However, this increased accessibility also introduces security and privacy concerns. Cloud-based access and sharing of quantum computers require secure means to isolate different users, such as through the use of reset operations. However, current reset operations, including direct thermalization and fast reset instructions, are vulnerable to information leakage due to imperfections in quantum computer operations. To counteract these vulnerabilities, our work proposes multiple implementations of the one-time pad (OTP) defense mechanism. These implementations, specifically random execution, dynamic circuit, and control gate, involve applying Pauli or control gates randomly before executing standard reset operations. We analyze and compare these implementations in detail, demonstrating their effectiveness in mitigating state leakage. This work offers innovative approaches to enhancing the security of reset operations and the safety of cloud-based quantum computers.
+                <div id="abstract4" class="paper-abstract">
+                    Frequency-multiplexing is a technique used for achieving resource-efficient readout in superconducting-based quantum computers. By enabling multiple resonators to share a common feed line, it significantly reduces the number of required cables and passive components. However, this gain in scalability introduces increased readout crosstalk. The readout crosstalk is not only a reliability issue, but also a possible security issue. Prior work has explored readout crosstalk in experimental systems not publicly available. This work builds on the prior findings and evaluates readout crosstalk in commercial, cloud-based quantum computers. In the process, this work also reconstructs the likely architecture for the shared readout feed lines and shows which qubit readout resonators likely share a feed line. This work finally shows that crosstalk-induced errors occurring during readout can be exploited by adversaries to infer the state of co-located victim qubits, leading to unintended information leakage.
                 </div>
             </div>
 
@@ -107,17 +108,19 @@ redirect_from:
             </div>
 
             <div class="paper-item">
-                <a href="#" class="paper-title" onclick="toggleAbstract('abstract4'); return false;">
-                    "I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers"
+                <a href="#" class="paper-title" onclick="toggleAbstract('abstract2'); return false;">
+                    "Securing Quantum Computer Reset with One-Time Pads"
                 </a>
                 <div class="paper-authors">
-                    <span class="speaker-name">Yizhuo Tan</span> (Yale University); 
+                    <span class="speaker-name">Chuanqi Xu</span> (Yale University); 
+                    <span class="speaker-name">Jamie Sikora</span> (Virginia Polytechnic Institute and State University); 
                     <span class="speaker-name">Jakub Szefer</span> (Northwestern University)
                 </div>
-                <div id="abstract4" class="paper-abstract">
-                    Frequency-multiplexing is a technique used for achieving resource-efficient readout in superconducting-based quantum computers. By enabling multiple resonators to share a common feed line, it significantly reduces the number of required cables and passive components. However, this gain in scalability introduces increased readout crosstalk. The readout crosstalk is not only a reliability issue, but also a possible security issue. Prior work has explored readout crosstalk in experimental systems not publicly available. This work builds on the prior findings and evaluates readout crosstalk in commercial, cloud-based quantum computers. In the process, this work also reconstructs the likely architecture for the shared readout feed lines and shows which qubit readout resonators likely share a feed line. This work finally shows that crosstalk-induced errors occurring during readout can be exploited by adversaries to infer the state of co-located victim qubits, leading to unintended information leakage.
+                <div id="abstract2" class="paper-abstract">
+                    The rapid expansion of cloud-based access to quantum computers has significantly democratized their usage, enabling a more diverse range of users to explore and utilize quantum computing technologies. However, this increased accessibility also introduces security and privacy concerns. Cloud-based access and sharing of quantum computers require secure means to isolate different users, such as through the use of reset operations. However, current reset operations, including direct thermalization and fast reset instructions, are vulnerable to information leakage due to imperfections in quantum computer operations. To counteract these vulnerabilities, our work proposes multiple implementations of the one-time pad (OTP) defense mechanism. These implementations, specifically random execution, dynamic circuit, and control gate, involve applying Pauli or control gates randomly before executing standard reset operations. We analyze and compare these implementations in detail, demonstrating their effectiveness in mitigating state leakage. This work offers innovative approaches to enhancing the security of reset operations and the safety of cloud-based quantum computers.
                 </div>
             </div>
+
         </div>
     </div>
 

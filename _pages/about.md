@@ -13,7 +13,7 @@ redirect_from:
 <div style="text-align: center; margin-bottom: 2em;">
   Co-located with <i>ACM CCS 2025</i><br>
   October 17, 2025<br>
-  Taipei, Taiwan
+  Room 201C at the Taipei International Convention Center (TICC)
 </div>
 
 The Quantum Security and Privacy (QSec) Workshop aims to establish a focused venue—co-located with ACM CCS 2025—dedicated to examining both the novel threats introduced by quantum technologies and the security of the quantum systems themselves. By bringing together experts from traditional security domains (e.g., post-quantum cryptography, network security) and quantum computing research (e.g., quantum key distribution, quantum architectures), QSec provides a forum for:
