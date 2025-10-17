@@ -225,6 +225,21 @@
     }
 }
 
+.best-paper-award {
+    background: linear-gradient(135deg, #ffd700 0%, #ffb300 100%);
+    color: #8b4513;
+    font-size: 0.75em;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 12px;
+    margin-left: 8px;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 4px rgba(255, 215, 0, 0.3);
+    border: 1px solid #ffcc00;
+}
+
 .paper-container {
     margin-bottom: 30px;
     border-bottom: 1px solid #e0e0e0;

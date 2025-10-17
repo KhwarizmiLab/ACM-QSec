@@ -82,7 +82,7 @@ redirect_from:
 
             <div class="paper-item">
                 <a href="#" class="paper-title" onclick="toggleAbstract('abstract4'); return false;">
-                    "I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers"
+                    "I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers" 🏆 <span class="best-paper-award">Best Paper Award</span>
                 </a>
                 <div class="paper-authors">
                     <span class="speaker-name">Yizhuo Tan</span> (Yale University); 
