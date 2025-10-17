@@ -67,7 +67,7 @@ The following papers have been accepted for presentation at the **ACM Workshop o
 
 <div class="paper-container">
     <a href="#" class="paper-title" onclick="toggleAbstract(this); return false;">
-        I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers
+        I Know What You Are Reading: Evaluating Readout Crosstalk in Cloud-based Quantum Computers 🏆 <span class="best-paper-award">Best Paper Award</span>
         <span class="expand-indicator">▸</span>
     </a>
     <div class="paper-authors">

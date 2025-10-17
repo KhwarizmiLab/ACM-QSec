@@ -29,6 +29,13 @@
     margin: 0;
 }
 
+.schedule-location {
+    font-size: 1em;
+    font-weight: 400;
+    margin-top: 10px;
+    opacity: 0.95;
+}
+
 .time-block {
     margin-bottom: 25px;
     border-left: 3px solid #667eea;
@@ -216,6 +223,21 @@
         margin-bottom: 6px;
         display: block;
     }
+}
+
+.best-paper-award {
+    background: linear-gradient(135deg, #ffd700 0%, #ffb300 100%);
+    color: #8b4513;
+    font-size: 0.75em;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 12px;
+    margin-left: 8px;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 4px rgba(255, 215, 0, 0.3);
+    border: 1px solid #ffcc00;
 }
 
 .paper-container {
