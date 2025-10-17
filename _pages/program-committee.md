@@ -12,7 +12,7 @@ redirect_from:
 ## Workshop Chairs
 
 - Jakub Szefer, *Northwestern University*
-- Muhammad Taqi Raza, *University of Massachusets Amherst*
+- Muhammad Taqi Raza, *University of Massachusetts Amherst*
 
 ## Technical Program Committee
 
@@ -29,7 +29,7 @@ redirect_from:
 - Nitish Panigrahy, *Binghamton University*
 - Patrick Schaumont, *Worcester Polytechnic Institute*
 - Prabhanjan Ananth, *University of California, Santa Barbara*
-- Raja Hasnain Anwar,  *University of Massachusets Amherst*
+- Raja Hasnain Anwar,  *University of Massachusetts Amherst*
 - Ramin Ayazandeh, *University of Colorado*
 - Reza Azarderakhsh, *Florida Atlantic University*
 - Romina Yalovetzky, *JP Morgan*
@@ -38,7 +38,7 @@ redirect_from:
 - Salvatore Stolfo, *Columbia University*
 - Sanjay Deshpande, *Yale University*
 - Satvik Maurya, *University of Wisconsin*
-- Shahrooz Pouryousef, *University of Massachusets Amherst*
+- Shahrooz Pouryousef, *University of Massachusetts Amherst*
 - Swaroop Ghosh, *Pennsylvania State University*
 - Teodoros Trochatos, *Yale University*
 - Thapliyal Himanshu, *University of Tennessee*
@@ -46,9 +46,9 @@ redirect_from:
 - Yingjie Lao, *Tufts University*
 
 ## Publicity Chairs
-- Raja Hasnain Anwar,  *University of Massachusets Amherst*
+- Raja Hasnain Anwar,  *University of Massachusetts Amherst*
 - Yizhuo Tan, *Yale University*
 - Theodoros Trochatos, *Yale University*
-- Ali Hamza Malik, *University of Massachusets Amherst*
+- Ali Hamza Malik, *University of Massachusetts Amherst*
 
 {% include important-dates.html %}
